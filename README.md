@@ -1,4 +1,4 @@
-Cryptoparty
+talks
 ===========
 
-Handouts/talks/etc. for organizing Cryptoparty Chicago
+Very incomplete repo of slides/handouts from talks
